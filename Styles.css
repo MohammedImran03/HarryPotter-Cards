@@ -1,0 +1,25 @@
+.main{
+    display: flex;
+    justify-content:center;
+  }
+  div{
+      background-color: rgb(242, 238, 238);
+  }
+  h3{
+  background-color: rgb(99, 103, 104);
+  opacity: 0.9;
+  }
+  h6{
+      color: black;
+      align-items: center;
+      background-color: white;
+  }
+  .card-body{
+      background-color:  white;
+  }
+  center{
+      padding: 10px;
+  }
+  img{
+    border-radius: 50%;
+  }
